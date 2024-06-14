@@ -10,6 +10,7 @@ crash.log
 
 # .terraform directory
 .terraform/
+.terraform.lock.hcl
 
 # Override files
 override.tf
